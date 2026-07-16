@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 20:18:52 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 22:56:36 +0200</lastBuildDate>
 		
 			<atom:link href="https://fethiboutra.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Post_6</title>
+				<link>https://fethiboutra.github.io/post/post_6/</link>
+				<pubDate>Thu, 16 Jul 2026 22:56:36 +0200</pubDate>
+				<guid>https://fethiboutra.github.io/post/post_6/</guid>
+				<description>&lt;p&gt;this is content for post_6&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Post_5</title>
 				<link>https://fethiboutra.github.io/post/post_5/</link>
